@@ -1,0 +1,9 @@
+Use case: stylized-concept
+Asset type: wide GitHub profile README banner, 3:1 landscape.
+Primary request: Create a refined personal profile banner with subtle Cyrene (昔涟) from Honkai: Star Rail elements, based on the supplied character artwork.
+Input images: Image 1 is character identity and palette reference only, not a layout to copy.
+Subject: Cyrene, recognizable pink flowing hair, violet prismatic eyes, white silver and purple costume and crystalline ornaments; gentle warm smile. Tasteful shoulder-up portrait occupies the rightmost third, with breathing room around her face.
+Scene/backdrop: airy pearl white, blush pink and pale lavender with a few translucent crystal petals and flowing ice-blue ribbons along the outer edges. The left two-thirds are quiet negative space.
+Style/medium: polished delicate anime illustration, soft luminous shading, restrained elegant editorial composition.
+Text (verbatim): "Tobi1chi" set prominently in the left middle, elegant dark-plum serif typography; smaller line below reading "Building things, one idea at a time."
+Constraints: wide 3:1 aspect ratio, clean rectangular edge, only one character, no logos, no watermarks, no additional text, no tech circuitry, no cards, no busy patterns. Text must be sharp and readable at 850px display width. Preserve character identity from reference; create a new wide composition.
