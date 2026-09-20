@@ -38,7 +38,7 @@ This integration is work in progress. My public [Jev vs Polymarket experiment](h
 | **[EchoTrigger](https://github.com/Tobi1chi/EchoTrigger)** | An audio interface for AI agents, combining ESP32-S3 microphone hardware, short-term replay, speech transcription, and MCP. |
 | **[Skills & Small Tools](https://github.com/Tobi1chi/Skills-and-SmallTools)** | Reusable agent skills and scripts for engineering, research, and everyday development workflows. |
 
-Earlier hardware work: [DIY VR rudder pedals](https://github.com/Tobi1chi/Vtol-VR-Rudder-Pedal) · [STM32 development template](https://github.com/Tobi1chi/STM32_EnvironmentTemplate).
+My broader engineering background includes contributing optimization work to a **macro-placement challenge**, building [DIY VR rudder pedals](https://github.com/Tobi1chi/Vtol-VR-Rudder-Pedal), and creating an [STM32 development template](https://github.com/Tobi1chi/STM32_EnvironmentTemplate).
 
 ### Open source & community
 
