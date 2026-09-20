@@ -8,7 +8,7 @@
 
 Building agents, exploring frontier models, and contributing to open source.
 
-[Projects](#selected-projects) · [Open source](#open-source--community) · [LinkedIn](https://www.linkedin.com/in/guanlun-sun-3b3681301/)
+[Projects](#selected-projects) · [For fun](#for-fun) · [Open source](#open-source--community) · [LinkedIn](https://www.linkedin.com/in/guanlun-sun-3b3681301/)
 
 </div>
 
@@ -26,7 +26,7 @@ My hardware background still shapes how I build. I enjoy taking AI beyond the ch
 
 I'm experimenting with [Jev from TypeSafe AI](https://typesafe.ai/blog/introducing-system-one-models-and-jev) and exploring how its typed, probabilistic decisions can fit into [EHAI](https://github.com/Tobi1chi/EHAI). I'm interested in combining fast model decisions with an explicit execution framework: plans, tools, checks, and human intervention.
 
-This integration is work in progress. My public [Jev vs Polymarket experiment](https://github.com/Tobi1chi/JevVSPolymarket) is a separate exploration of its probability judgments and repeatability on historical questions.
+The Jev × EHAI integration is work in progress.
 
 ### Selected projects
 
@@ -39,6 +39,12 @@ This integration is work in progress. My public [Jev vs Polymarket experiment](h
 | **[Skills & Small Tools](https://github.com/Tobi1chi/Skills-and-SmallTools)** | Reusable agent skills and scripts for engineering, research, and everyday development workflows. |
 
 My broader engineering background includes contributing optimization work to a **macro-placement challenge**, building [DIY VR rudder pedals](https://github.com/Tobi1chi/Vtol-VR-Rudder-Pedal), and creating an [STM32 development template](https://github.com/Tobi1chi/STM32_EnvironmentTemplate).
+
+### For fun
+
+Small projects driven by curiosity, usually starting with “what if?”
+
+**[Jev vs Polymarket](https://github.com/Tobi1chi/JevVSPolymarket)** — Can a model judge the odds better than a prediction market? I give Jev historical sports and esports questions, compare its probabilities with resolved outcomes and market baselines, and repeat the questions to see how consistent it is. A playground for probability and model behavior, with the experiment logs shared in the repo.
 
 ### Open source & community
 
@@ -60,4 +66,4 @@ One contribution: [NapCat / OneBot channel support for Cyrene-Agent](https://git
   <sub>明天见，桃子</sub>
 </div>
 
-<p align="center"><sub>Cyrene / 昔涟 · Honkai: Star Rail · HoYoverse. <a href="./ASSETS.md">Artwork sources</a>.</sub></p>
+<p align="center"><sub>Cyrene / 昔涟 · Honkai: Star Rail · HoYoverse. <a href="https://space.bilibili.com/1833882">Avatar reference · Bilibili</a> · <a href="./ASSETS.md">Artwork sources</a>.</sub></p>
