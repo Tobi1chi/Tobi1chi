@@ -4,45 +4,53 @@
 
 <div align="center">
 
-### Agent systems, embedded hardware, and the tools in between.
+### AI engineer, with roots in hardware & embedded systems.
 
-Building ways for people, AI agents, and physical devices to work together.
+Building agents, exploring frontier models, and contributing to open source.
 
-[Projects](#selected-projects) · [GitHub](https://github.com/Tobi1chi) · [LinkedIn](https://www.linkedin.com/in/guanlun-sun-3b3681301/)
+[Projects](#selected-projects) · [Open source](#open-source--community) · [LinkedIn](https://www.linkedin.com/in/guanlun-sun-3b3681301/)
 
 </div>
 
 ---
 
-### A little about my work
+### About me
 
-My work spans human–agent collaboration and embedded systems: helping people guide complex agent tasks, connecting microphone nodes to AI software, and building DIY flight-sim controls.
+I'm an AI engineer with a hardware and embedded-systems background. My main focus is building AI agents: the harnesses, memory, tools, and execution systems that turn model capabilities into useful applications.
 
-I also collect reusable skills and scripts for electronics, academic writing, and everyday automation.
+I like working at the cutting edge—trying new models, building around them, and finding out what holds up in real use. I'm especially interested in how models and agent harnesses work together: how context, memory, feedback, and tools shape what an agent can actually accomplish.
 
-### Currently building · EHAI
+My hardware background still shapes how I build. I enjoy taking AI beyond the chat window and connecting it to microphones, embedded devices, and wearable interfaces.
 
-**Enhanced Human-Agent Interface**
+### Exploring now · System One models × agent harnesses
 
-I'm developing a planning and execution core for agent workflows, starting with coding tasks. The aim is to let people review a plan, guide execution, and judge results against the original goal—with a way to pause, recover, and ask for human input when needed.
+I'm experimenting with [Jev from TypeSafe AI](https://typesafe.ai/blog/introducing-system-one-models-and-jev) and exploring how its typed, probabilistic decisions can fit into [EHAI](https://github.com/Tobi1chi/EHAI). I'm interested in combining fast model decisions with an explicit execution framework: plans, tools, checks, and human intervention.
 
-*In development · Private repository · Public release planned*
+This integration is work in progress. My public [Jev vs Polymarket experiment](https://github.com/Tobi1chi/JevVSPolymarket) is a separate exploration of its probability judgments and repeatability on historical questions.
 
 ### Selected projects
 
-| Project | What it does |
+| Project | What I'm building |
 | :--- | :--- |
-| **[Cyrene-Agent](https://github.com/Tobi1chi/Cyrene-Agent)** | A Cyrene-inspired Live2D desktop AI companion, bringing conversation, memory, voice, and tools into everyday work and learning. |
-| **[EchoTrigger](https://github.com/Tobi1chi/EchoTrigger)** | Audio capture, short-term replay, and speech transcription for AI agents, with ESP32-S3 reference hardware and an MCP interface. |
-| **[Skills & Small Tools](https://github.com/Tobi1chi/Skills-and-SmallTools)** | Reusable agent skills and scripts for circuit workflows, paper review, project documentation, and automation. |
-| **[VTOL VR Rudder Pedal](https://github.com/Tobi1chi/Vtol-VR-Rudder-Pedal)** | A low-cost DIY rudder pedal for VTOL VR and other flight simulators. |
-| **[STM32 Environment Template](https://github.com/Tobi1chi/STM32_EnvironmentTemplate)** | A development environment template for STM32 projects across platforms. |
+| **[Cyrene-Agent](https://github.com/Tobi1chi/Cyrene-Agent)** | A Live2D AI desktop companion with a custom agent harness, personalized memory, voice interaction, and an extensible tool and plugin system. |
+| **[EHAI](https://github.com/Tobi1chi/EHAI)** | A locally deployable agent planning and execution framework: reviewed plans, concurrent workers, isolated workspaces, human intervention, and result verification. Coding is its first use case. |
+| **[Turbo IO](https://github.com/Tobi1chi/Turbo-IO)** | An unofficial RayNeo iO smart-glasses SDK and iOS research client, exploring voice AI and wearable access to coding agents. Source available for noncommercial use. |
+| **[EchoTrigger](https://github.com/Tobi1chi/EchoTrigger)** | An audio interface for AI agents, combining ESP32-S3 microphone hardware, short-term replay, speech transcription, and MCP. |
+| **[Skills & Small Tools](https://github.com/Tobi1chi/Skills-and-SmallTools)** | Reusable agent skills and scripts for engineering, research, and everyday development workflows. |
 
-### In the workshop
+Earlier hardware work: [DIY VR rudder pedals](https://github.com/Tobi1chi/Vtol-VR-Rudder-Pedal) · [STM32 development template](https://github.com/Tobi1chi/STM32_EnvironmentTemplate).
 
-**Embedded** · ESP32-S3 / ESP-IDF / STM32 / C++  
-**Software** · Python / TypeScript / Electron / MCP  
-**Electronics tools** · JLCEDA / ngspice
+### Open source & community
+
+Open source is a big part of how I learn and build. I share tools, contribute code, and enjoy exchanging ideas with other developers—especially around agents, harness design, and AI connected to hardware.
+
+Contributions include [NapCat / OneBot channel support for Cyrene-Agent](https://github.com/Playa-Cyrene/Cyrene-Agent/pull/40) and [optimization work for a macro-placement challenge](https://github.com/DouShaBuns/macro_place_challenge_repo/pull/1). If you're exploring similar ideas, I'd love to compare notes through issues and discussions.
+
+### What I work with
+
+**AI engineering** · Agent harnesses / memory & context / tool calling / MCP / orchestration<br>
+**Software** · Python / TypeScript / Electron<br>
+**Hardware & embedded** · ESP32-S3 / ESP-IDF / STM32 / C++ / JLCEDA / ngspice
 
 ---
 
