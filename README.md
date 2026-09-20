@@ -44,7 +44,7 @@ Earlier hardware work: [DIY VR rudder pedals](https://github.com/Tobi1chi/Vtol-V
 
 Open source is a big part of how I learn and build. I share tools, contribute code, and enjoy exchanging ideas with other developers—especially around agents, harness design, and AI connected to hardware.
 
-Contributions include [NapCat / OneBot channel support for Cyrene-Agent](https://github.com/Playa-Cyrene/Cyrene-Agent/pull/40) and [optimization work for a macro-placement challenge](https://github.com/DouShaBuns/macro_place_challenge_repo/pull/1). If you're exploring similar ideas, I'd love to compare notes through issues and discussions.
+One contribution: [NapCat / OneBot channel support for Cyrene-Agent](https://github.com/Playa-Cyrene/Cyrene-Agent/pull/40). If you're exploring similar ideas, I'd love to compare notes through issues and discussions.
 
 ### What I work with
 
